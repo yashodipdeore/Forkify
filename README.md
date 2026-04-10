@@ -1,5 +1,9 @@
 # 🍽️ Forkify – Recipe Application
 
+⚠️ Disclaimer:
+This is a learning project. The original design and concept belong to the course instructor.
+Jonas Schmedtmann 
+
 ## 🚀 Overview
 
 Forkify is a modern JavaScript-based recipe application that allows users to search, view, and manage recipes through an intuitive and responsive interface. The application fetches real-time recipe data from an external API and renders it dynamically.
